@@ -1,6 +1,7 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
 import { AlurakutStyles } from '../src/lib/aluraKutCommons'
 
+//body background: #D9E6F6;
 const GlobalStyle = createGlobalStyle`
 
   /* Reset CSS */
@@ -16,7 +17,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     font-family: sans-serif;
     box-sizing: border-box;
-    background: #D9E6F6;
+    background: #2F4A71;
   }
 
   #__next {

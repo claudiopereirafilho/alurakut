@@ -18,7 +18,14 @@ function ProfileSidebar(props){
 export default function Home() {
   
   const githubUser = 'claudiopereirafilho';
-  const pessoasFavoritas = ['claudiopereirafilho','omariosouto', 'filipedeschamps','peas','felipefialho'];
+  const pessoasFavoritas = [
+    'claudiopereirafilho',
+    'omariosouto',
+    'filipedeschamps',
+    'peas',
+    'felipefialho',
+    'juunegreiros'
+  ];
   
   return (
 
